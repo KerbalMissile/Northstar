@@ -7,7 +7,9 @@ The Northstar planet pack. Currently only one system, Norda.
 **Developers / Credits:**
 
 KerbalMissile - Lead Developer
+
 Bob² - Roadmap
+
 BugerFish - Code
 
 ---
