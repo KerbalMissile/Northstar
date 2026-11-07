@@ -23,3 +23,5 @@ Licenses:
 Assets / Art / Models are licensed under the **All Rights Reserved** License unless otherwise stated.
 
 Any configs are licensed under the **GNU General Public License v3.0** License unless otherwise stated.
+
+For more information see [LICENSE.md](LICENSE.md).
