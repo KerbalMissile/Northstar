@@ -8,7 +8,7 @@ The Northstar planet pack. Currently only one system, Norda.
 
 KerbalMissile - Lead Developer
 
-Bob² - Roadmap
+Bob² - Artist
 
 BugerFish - Code
 
@@ -32,6 +32,14 @@ BugerFish - Code
 **Systems:**
 
 <img width="3472" height="982" alt="Norda_System_Map" src="https://github.com/user-attachments/assets/4d791562-4b30-465f-9022-8f4e37731a93" />
+
+---
+
+**Roadmap:**
+
+<img width="2469" height="500" alt="image" src="https://github.com/user-attachments/assets/ac5e2517-d01c-4a19-bfbf-0103d8d82fe6" />
+
+(Made by Bob²)
 
 ---
 
