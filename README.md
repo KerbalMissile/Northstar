@@ -14,7 +14,7 @@ BugerFish - Code
 
 ---
 
-**Norda System:**
+**Systems:**
 
 <img width="3472" height="982" alt="Norda_System_Map" src="https://github.com/user-attachments/assets/4d791562-4b30-465f-9022-8f4e37731a93" />
 
