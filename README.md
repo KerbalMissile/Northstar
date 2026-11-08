@@ -14,6 +14,21 @@ BugerFish - Code
 
 ---
 
+**Dependencies:**
+
+- Kopernicus
+- StellarEffects v1.2.0 (or greater)
+
+**Compatible Mods:**
+
+- Scatterer
+- Volumetric Clouds
+- Xenobiology
+- MicroBiology
+- Firefly
+
+---
+
 **Systems:**
 
 <img width="3472" height="982" alt="Norda_System_Map" src="https://github.com/user-attachments/assets/4d791562-4b30-465f-9022-8f4e37731a93" />
