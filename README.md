@@ -18,6 +18,8 @@ BugerFish - Code
 
 - Kopernicus
 - StellarEffects v1.2.0 (or greater)
+- Vertex Color Map Emissive
+- Vertex Height Oblate Advanced
 
 **Compatible Mods:**
 
