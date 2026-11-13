@@ -29,6 +29,7 @@ BugerFish - Code
 - MicroBiology
 - Firefly
 - Parallax Continued
+- KSP3DRings
 
 ---
 
