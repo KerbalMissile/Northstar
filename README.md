@@ -17,7 +17,7 @@ BugerFish - Code
 **Dependencies:**
 
 - Kopernicus
-- StellarEffects v1.2.0 (or greater)
+- StellarEffects v1.4.0 (or greater)
 - Vertex Color Map Emissive
 - Vertex Height Oblate Advanced
 
