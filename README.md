@@ -24,7 +24,7 @@ BugerFish - Code
 **Compatible Mods:**
 
 - Scatterer
-- Volumetric Clouds
+- Volumetric Clouds V5
 - Xenobiology
 - Microbiology Expansion
 - Firefly
