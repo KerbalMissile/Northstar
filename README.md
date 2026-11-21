@@ -21,6 +21,7 @@ BugerFish - Code
 - Vertex Color Map Emissive
 - Vertex Height Oblate Advanced
 - Singularity
+- Atmosphere Utilities
 
 **Compatible Mods:**
 
