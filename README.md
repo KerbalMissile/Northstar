@@ -12,6 +12,8 @@ Bob² - Artist
 
 BugerFish - Code
 
+Blazepilot99 - Trailer
+
 ---
 
 **Dependencies:**
@@ -45,6 +47,14 @@ BugerFish - Code
 <img width="2469" height="500" alt="image" src="https://github.com/user-attachments/assets/ac5e2517-d01c-4a19-bfbf-0103d8d82fe6" />
 
 (Made by Bob²)
+
+---
+
+**Trailer / Showcase:**
+
+https://youtu.be/XtHgiUa-IQc?si=ivXK0Eg_EkmTv2sX
+
+Thanks to Blazepilot99 for making it!
 
 ---
 
