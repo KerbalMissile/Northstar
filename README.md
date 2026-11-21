@@ -20,6 +20,7 @@ BugerFish - Code
 - StellarEffects v1.4.0 (or greater)
 - Vertex Color Map Emissive
 - Vertex Height Oblate Advanced
+- Singularity
 
 **Compatible Mods:**
 
