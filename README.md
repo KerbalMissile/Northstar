@@ -27,7 +27,6 @@ BugerFish - Code
 - Scatterer
 - Volumetric Clouds V5
 - Xenobiology
-- Microbiology Expansion
 - Firefly
 - Parallax Continued
 - KSP3DRings
